@@ -1,5 +1,5 @@
 # EmoteOS - Express Your Emotion
-Emote/ionalized Operation System
+Emote/ionalized Operating System
 
 Part of __Project EMOSYS__
 
